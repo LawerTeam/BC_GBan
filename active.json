@@ -1,7 +1,7 @@
 {
     "status": true,
     "boardcast": "TEST",
-    "noactive": "TESTTTTT 2",
+    "noactive": "❎Bot đang ở chế độ chỉ các box được duyệt mới có thể sử dụng\n\n1. Sử dụng !box id để lấy ID Box của bạn\n2. Comment TID box của bạn vào bài viết để được active bot\n3. Link: https://www.facebook.com/ftios4/posts/641483760331520\n4. Dùng !callad để kích hoạt box của bạn",
     "senderID": [
         "4"
     ]
