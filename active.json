@@ -1,7 +1,7 @@
 {
     "status": true,
     "boardcast": "TEST",
-    "noactive": "❎Project đang ở chế độ chỉ người dùng được duyệt mới có thể sử dụng\n\n1. Sử dụng !uid id để lấy senderID bot của bạn\n2. Comment senderID bot của bạn vào bài viết để được active bot\n- Link: https://www.facebook.com/ftios4/posts/641483760331520\n\nChúc bạn sử dụng bot vui vẻ",
+    "noactive": "❎Project đang ở chế độ chỉ người dùng được duyệt mới có thể sử dụng\n\n1. Sử dụng !uid để lấy senderID bot của bạn\n2. Comment senderID bot của bạn vào bài viết để được active bot\n- Link: https://www.facebook.com/ftios4/posts/641483760331520\n\nChúc bạn sử dụng bot vui vẻ",
     "senderID": [
         "4"
     ]
