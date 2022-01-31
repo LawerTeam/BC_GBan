@@ -4,7 +4,8 @@
     "boardcast": "TEST",
     "noactive": "❎Project đang ở chế độ chỉ người dùng được duyệt mới có thể sử dụng\n\n1. Sử dụng !uid để lấy senderID bot của bạn, hoặc ID ADMIN BOT tại vị trí đầu tiên\n2. Comment senderID bot, hoặc ID ADMIN (chỉ 1 trong 2) của bạn vào bài viết để được active bot\n- Link: https://www.facebook.com/Comming soon...\n\nChúc bạn sử dụng bot vui vẻ",
     "adminBot": [
-        "100038379006171"
+        "100038379006171",
+         "100018806512683"
     ],
     "botID": [
         "100038257713350",
