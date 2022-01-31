@@ -2,9 +2,9 @@
     "status": true,
     "note": "Sử dụng ID ADMIN(có idAdmin tại ví trí 0 dùng được mọi bot) thì khỏi sử dụng botID(1 ID -> 1 activate)",
     "boardcast": "TEST",
-    "noactive": "❎Project đang ở chế độ chỉ người dùng được duyệt mới có thể sử dụng\n\n1. Sử dụng !uid để lấy senderID bot của bạn\n2. Comment senderID bot của bạn vào bài viết để được active bot\n- Link: https://www.facebook.com/Comming soon...\n\nChúc bạn sử dụng bot vui vẻ",
+    "noactive": "❎Project đang ở chế độ chỉ người dùng được duyệt mới có thể sử dụng\n\n1. Sử dụng !uid để lấy senderID bot của bạn, hoặc ID ADMIN BOT tại vị trí đầu tiên\n2. Comment senderID bot, hoặc ID ADMIN (chỉ 1 trong 2) của bạn vào bài viết để được active bot\n- Link: https://www.facebook.com/Comming soon...\n\nChúc bạn sử dụng bot vui vẻ",
     "adminBot": [
-        "1000383790061711"
+        "100038379006171"
     ],
     "botID": [
         "1000382577133501",
